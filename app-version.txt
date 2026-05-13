@@ -1,0 +1,5 @@
+LATEST_VERSION_CODE=1
+MINIMUM_VERSION_CODE=1
+FORCE_UPDATE=false
+UPDATE_MESSAGE=Please update to the latest version for correct solar bill calculation.
+PLAY_STORE_URL=https://play.google.com/store/apps/details?id=com.renjithplavada.keralasolarbillcalculator
